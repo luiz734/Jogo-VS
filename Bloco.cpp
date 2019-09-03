@@ -1,7 +1,7 @@
 #pragma once
 #include "Bloco.h"
 //teste
-
+//teste 2
 Bloco::Bloco(int tamanhoX, int tamanhoY, int posX, int posY)
 {
     isSafe = true;
