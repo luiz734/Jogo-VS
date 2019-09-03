@@ -4,7 +4,7 @@
 
 Bloco::Bloco(int tamanhoX, int tamanhoY, int posX, int posY)
 {
-    isSafe = true;
+    isSafe = false;
     setTamX((float)(48 * tamanhoX));
     setTamY((float)(48 * tamanhoY));
     setPosX((float)(48 * posX));
