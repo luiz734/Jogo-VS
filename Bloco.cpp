@@ -1,6 +1,6 @@
 #pragma once
 #include "Bloco.h"
-//teste
+
 
 Bloco::Bloco(int tamanhoX, int tamanhoY, int posX, int posY)
 {
